@@ -886,8 +886,7 @@ class JobFinder:
         except Exception as e:
             print(f'    Ошибка: {str(e)[:80]}')
         sys.stdout.flush()
-
-            def scrape_hh_api(self):
+    def scrape_hh_api(self):
                 """Scrape HeadHunter public API (more structured salary info)."""
                 print('[HH API] Ищем через API HeadHunter...')
                 sys.stdout.flush()
