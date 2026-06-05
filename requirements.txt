@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+feedparser
+pyTelegramBotAPI
+pytest
+openai
+sentence-transformers
+numpy
+aiohttp
